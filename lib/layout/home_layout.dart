@@ -95,6 +95,7 @@ class _HomeLayoutState extends State<HomeLayout> {
           print('database opened');
         }
     );
+     ///login
   }
   void insertToDatabase()
   {
